@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Dell/Documents/GitHub/Computer-Networks",
-      "program": "c:/Users/Dell/Documents/GitHub/Computer-Networks/build/Debug/outDebug",
+      "cwd": "c:/Users/Dell/Documents/GitHub/Computer-Networks/Back_Go_n",
+      "program": "c:/Users/Dell/Documents/GitHub/Computer-Networks/Back_Go_n/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
